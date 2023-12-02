@@ -1,4 +1,4 @@
-import torch 
+import torch
 import torch.nn.functional as F
 
 # Create a tensor
@@ -12,7 +12,6 @@ print("Original Tensor:")
 print(input_tensor)
 print("\nNormalized Tensor:")
 print(normalized_tensor)
-
 
 
 import torch
